@@ -49,15 +49,6 @@ I'm **Rohith Varun Ponnada**, a **FullStack Developer** who loves building clean
 <a href="https://www.linkedin.com/in/rohith-varun-ponnada-b17a45293/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.youtube.com/@Rohith-Varun" target="_blank">
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=youtube&label=Subscribe&query=%24.items%5B0%5D.statistics.subscriberCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26forHandle%3DRohith-Varun%26key%3DAIzaSyDUMMYKEY&color=red" />
-</a>
-<a href="https://medium.com/@Rohith-Varun" target="_blank">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/Rohith-Varun" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 </p>
 
 ---

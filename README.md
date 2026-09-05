@@ -69,10 +69,11 @@ I'm **Rohith Varun Ponnada**, a **FullStack Developer** who loves building clean
 
 ---
 ## 📈 Activity Graph
+
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohith-Varun&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://activity-graph.vercel.app/graph?username=Rohith-Varun&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
----
+--
 
 ## 🤝 Let's Connect
 

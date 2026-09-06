@@ -60,12 +60,11 @@ I'm **Rohith Varun Ponnada**, a **FullStack Developer** who loves building clean
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rohith-Varun&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohith-Varun&theme=tokyonight&hide_border=true" width="48%" />
+| | |
+|:---:|:---:|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohith-Varun&show_icons=true&theme=tokyonight&hide_border=true) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Rohith-Varun&theme=tokyonight&hide_border=true) |
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-Varun&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-Varun&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
